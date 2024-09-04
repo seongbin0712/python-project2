@@ -2,6 +2,8 @@
 # num1, num2, num3
 # 식 : num1 * num2 - num3 = result
 
+
+
 # 답 판정
 # 정답 혹은 오답 결과 출력
 
