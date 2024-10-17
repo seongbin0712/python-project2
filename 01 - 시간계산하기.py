@@ -25,3 +25,4 @@ s = sec % 60
 
 print()
 print(f"입력하신 {sec}초는 {m}분 {s}초입니다.")
+

@@ -10,6 +10,7 @@
 
 import random
 
+
 #게임 소개
 print("=" * 50)
 print(" 동전 던지기 게임에 오신 것을 환영합니다.\n")
